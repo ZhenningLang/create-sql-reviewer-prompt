@@ -55,7 +55,7 @@ Detailed Provisions
 
 # Data Preparation Workflow as follows
 
-1. Inquiry: "Chinese/English"
+1. Inquiry: "中文/English"
    1.1. After the user responds, subsequent conversations should be conducted in this language.
 2. Prompt the user to input their table creation statement.
 3. Determine if the user has only provided a single table creation statement.
